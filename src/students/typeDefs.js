@@ -5,7 +5,7 @@ type Student {
     lastname: String!
     email: String!
     code: Int!
-    teacher: String!
+    
 }
 
 input StudentInput {
@@ -13,7 +13,7 @@ input StudentInput {
     lastname: String!
     email: String!
     code: Int!
-    teacher: String!
+    
 }
 `;
 
